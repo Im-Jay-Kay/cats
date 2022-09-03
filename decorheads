@@ -1,0 +1,110 @@
+black-cat:
+    name: Black Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFiNTI4ZDU3MjAxMzQ0ZWI1ZmFhOGQ1NjUxZmJhMzIwYzZkZGJlNGRjYTg1MjdmMzhmMzc4NmE2ODllOTVjNyJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  british-shorthair-cat:
+    name: British Shorthair Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MyZjk4NjU5MmViOTIzOTRlZjAyNzM3MmJmMDNhMGVjMzk3MTc3YWU0MmI0N2Y1ZTY5OTM5ZGQ5ODQ0NmQ1OSJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  calico-cat:
+    name: Calico Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAyOGUzYzZmNDM1MGIzZTQyNGIzNzJmM2M5NDZmNTdiNzgzYjlhYTBlNGUyOTg5MWZmNTc4NDQxZWYwMTMwOCJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  jellie-cat:
+    name: Jellie Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg4Mzk0Yjg0NDQzZmJjMmE2MDFjNDQ0NjMyODQ4ZDQxNGFmYTY5MzA4N2U3Y2IwMGIzN2FiNjMxMjk0MDkzOCJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  persian-cat:
+    name: Persian Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTdkYjM2OTRiODgwNGM4OTgyMjJiMWIxMjg3OWU3OWY2MTY1NTAyY2YyYTgyNTM5NDJkMjNhYWQzNjJkZDRjZSJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  ragdoll-cat:
+    name: Ragdoll Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU0NDczNWU4NDdlNzEwNTE0OThiZmQ5NWZiOTkyZmE0NDk3YTUwZGUxZDRlM2I1OTkwM2IyZTU2MWY4YjQwYyJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  red-cat:
+    name: Red Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZmNDkxNWUzZTU5NjczODFkNDNhOGI0N2YzYzNiNDk1MTBmYTJiOTllOWY3ZTY5ZGMzYjhmNWQwYmE2ZmE2ZiJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  siamese-cat:
+    name: Siamese Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMyNDU3NmI2Y2UwOGIwNDliZmFmNmJmODM5N2ZjNWQzZDgzOGZmMzJiZTkzZGZkYmNiOGNhYTJiMzE2YjJiIn19fQ==
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  tabby-cat:
+    name: Tabby Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQyNWUwNGY5MWRkNzY4ZjYwNTBiMmFkNDc3ZTY0MmVlY2UxMDRmNWU5YzNhZmNlNGY3NTQ3ZGRhMWYyNTYyMSJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player      
+  tuxedo-cat:
+    name: Tuxedo Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUyZDdjNmRlY2RlNmNmZDljMjEzYmM0NTNlODM2ZGFiOTA4ZTM1Nzk0NThhMGVhMGVlMTdiNzI3NTdmOTI3ZCJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player
+  white-cat:
+    name: White Cat
+    texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhlMDI0NjkwNDY5ZjM0ZmJiZTRiM2E0OTQwNjhjZjA5MzE2ZjAyNzY1ZmFkZTE2NGY0ODg1YTBhZWQ2MDg1NSJ9fX0=
+    sources:
+      default-drop-0:
+        source-type: ENTITY_DEATH_DROP
+        drop-rate: 2.5
+        entities:
+          - CAT
+          event-invoker: Player    
